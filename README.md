@@ -133,9 +133,11 @@ Seller revenue was concentrated among a small number of cities, with São Paulo 
 
 ## Dashboard Preview
 
-Add dashboard screenshot here:
+### Full Dashboard
+![Full_Dashboard](dashboard_screenshots/dashboard_full.png)
 
-![Dashboard](screenshots/dashboard_overview.png)
+### Charts Insights
+![charts_insights](dashboard_screenshots/charts_insights.png)
 
 ---
 
@@ -144,10 +146,10 @@ Add dashboard screenshot here:
 ```text
 olist-ecommerce-analytics-dashboard/
 │
-├── dashboard/
+├── powerbi-dashboard/
 │   └── Olist_Dashboard.pbix
 │
-├── screenshots/
+├── dashboard_screenshots/
 │   └── dashboard_overview.png
 │
 ├── sql/
@@ -159,6 +161,8 @@ olist-ecommerce-analytics-dashboard/
 │   ├── product_revenue.csv
 │   └── seller_revenue.csv
 │
+|
+|
 └── README.md
 ```
 
