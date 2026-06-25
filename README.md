@@ -162,6 +162,8 @@ olist-ecommerce-analytics-dashboard/
 │   └── seller_revenue.csv
 │
 |
+├──docs/
+    └── insights.md
 |
 └── README.md
 ```
